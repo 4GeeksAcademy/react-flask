@@ -3,7 +3,7 @@ import { Navbar } from "../component/navbar";
 import { useNavigate } from "react-router-dom";
 import { Context } from "../store/appContext";
 
-export const Private = () => {
+export const Privates = () => {
 
 	const navigate = useNavigate()
 
